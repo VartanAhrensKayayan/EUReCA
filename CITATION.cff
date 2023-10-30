@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EUReCA
+message: >-
+  In case you want to use EUReCA for your own research
+  project, please cite the following paper:
+type: software
+authors:
+  - given-names: Enrico
+    family-names: Prataviera
+  - given-names: Pierdonato
+    family-names: Romano
+  - given-names: Laura
+    family-names: Carnieletto
+  - given-names: Francesco
+    family-names: Pirotti
+  - given-names: Jacopo
+    family-names: Vivian
+  - given-names: Angelo
+    family-names: Zarrella
+identifiers:
+  - type: doi
+    value: 10.1016/j.renene.2021.03.144
+    description: >-
+      EUReCA: An open-source urban building energy modelling
+      tool for the efficient evaluation of cities energy
+      demand
+keywords:
+  - Urban building energy modelling
+  - Lumped-capacitance thermal networks
+  - Semantic georeferenced data
+  - EUReCA
+  - District simulation
+license: GPL-3.0
